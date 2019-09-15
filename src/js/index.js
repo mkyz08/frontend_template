@@ -10,6 +10,6 @@ export class Hello {
   }
 }
 
-export default new Hello('hoge22222');
+export default new Hello('hoge222222');
 
 
