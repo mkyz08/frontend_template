@@ -8,6 +8,6 @@ export class Test {
   }
 }
 
-export default new Test('hoge2');
+export default new Test('hoge2a');
 
 
